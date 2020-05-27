@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/custom-test-org-akshay/ContosoAir/_apis/build/status/akshd.ContosoAir?branchName=master)](https://dev.azure.com/custom-test-org-akshay/ContosoAir/_build/latest?definitionId=5&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
